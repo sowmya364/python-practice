@@ -1,5 +1,10 @@
+# Python Practice
+
 Hi, I'm Sowmya 👋
 
-I'm a B.Tech CSE student currently learning Python and C programming.
+I'm a B.Tech CSE student learning Python and C programming.
 
-This repository contains my practice programs and projects.
+## Projects
+1. Addition Program
+2. Calculator
+3. Number Guessing Game
